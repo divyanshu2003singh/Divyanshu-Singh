@@ -29,7 +29,7 @@ A brief introduction to your project. Explain what your project does and why use
 - **Summary Statistics:** Calculate summary statistics for salary data.
 - **Departmental Analysis:** Analyze salary data based on departments and sub-departments.
 
-## Getting Started
+## Getting Started 
 
 ### Prerequisites
 
