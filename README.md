@@ -38,7 +38,7 @@ A brief introduction to your project. Explain what your project does and why use
 
 1. Clone the repository: `git clone https://github.com/divyanshu2003singh/PW_backend_Project.git`
 2. Install dependencies: `npm install`
-3. To run the backend :`npm run` and change the port number if required
+3. To run the backend :`npm start` and change the port number if required
 
 ## Usage
 
