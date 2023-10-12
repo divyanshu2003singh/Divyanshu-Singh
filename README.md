@@ -37,7 +37,7 @@ A brief introduction to your project. Explain what your project does and why use
 
 ### Installation
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/divyanshu2003singh/PW_backend_Project.git`
 2. Install dependencies: `npm install`
 
 ## Usage
