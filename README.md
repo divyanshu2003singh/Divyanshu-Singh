@@ -16,8 +16,7 @@ Brief description of your project, what it does, and why it is useful.
   - [Deleting a Record](#deleting-a-record)
   - [Summary Statistics](#summary-statistics)
 - [Endpoints](#endpoints)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Introduction
 
