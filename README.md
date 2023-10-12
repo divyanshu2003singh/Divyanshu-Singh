@@ -44,10 +44,12 @@ A brief introduction to your project. Explain what your project does and why use
 
 ### Authentication
 
-To authenticate with the API, send a POST request to `/api/auth` with the following parameters and the username and password are hardcoded in the code which can be changed through the code only:
+To authenticate with the API, send a POST request to `/api/auth` with the following parameters and the username and password are hardcoded in the code which can be changed through the code only and to get the token you have to write the same username and password which are hardcoded in the code to the postman :
 
 - `username`: Your username
 - `password`: Your password
+  ![Project Logo](blob:https://web.whatsapp.com/0c0ad114-d106-493b-9a0c-9998e5b2e606)
+
 
 If authentication is successful, you will receive a JSON Web Token (JWT) that you can use to access protected endpoints.
 
