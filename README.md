@@ -52,7 +52,9 @@ To authenticate with the API, send a POST request to `/api/auth` with the follow
 - {
   "username": "username123",
   "password": "password123"
+
 }
+http://localhost:3080/api/auth
 
 
 
@@ -76,6 +78,7 @@ To add a new record to the dataset, send a POST request to `/api/add` with the f
         "sub_department": "LIC",
         "on_contract": "true"
     }
+http://localhost:3080/api/add
 
 ### Deleting a Record
 
