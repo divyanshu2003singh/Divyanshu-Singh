@@ -45,7 +45,7 @@ A brief introduction to your project. Explain what your project does and why use
 
 ### Authentication
 
-To authenticate with the API, send a POST request to `/api/auth` with the following parameters:
+To authenticate with the API, send a POST request to `/api/auth` with the following parameters and the username and password are hardcoded in the code which can be changed through the code only:
 
 - `username`: Your username
 - `password`: Your password
