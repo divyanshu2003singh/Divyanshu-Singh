@@ -48,7 +48,12 @@ To authenticate with the API, send a POST request to `/api/auth` with the follow
 
 - `username`: Your username
 - `password`: Your password
-  ![Project Logo](blob:https://web.whatsapp.com/0c0ad114-d106-493b-9a0c-9998e5b2e606)
+- example
+- {
+  "username": "username123",
+  "password": "password123"
+}
+
 
 
 If authentication is successful, you will receive a JSON Web Token (JWT) that you can use to access protected endpoints.
@@ -62,6 +67,15 @@ To add a new record to the dataset, send a POST request to `/api/add` with the f
 - `department`: Department of the employee
 - `sub_department`: Sub-department of the employee
 - `on_contract`: Employment contract status (true or false)
+- example
+-  {
+        "name": "Andyku",
+        "salary": "900",
+        "currency": "USD",
+        "department": "Banking",
+        "sub_department": "LIC",
+        "on_contract": "true"
+    }
 
 ### Deleting a Record
 
